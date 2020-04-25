@@ -1,4 +1,5 @@
 # Sales Taxes MAM
+<pre>
 
 Basic tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are
 exempt. Import duty is an additional tax applicable on all imported goods at a rate of 5%, with no exceptions.
@@ -47,3 +48,4 @@ Output 3:
 1 imported box of chocolates: 11.85
 Sales Taxes: 6.70
 Total: 74.68
+</pre>
